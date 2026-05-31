@@ -1,1 +1,0 @@
-vless://18d1320b-02ee-4582-95f7-197a913381dc@20.207.70.99:443?encryption=none&security=tls&sni=literate-memory-69pjx67xpwjh4q6p-443.app.github.dev&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=xhttp&host=literate-memory-69pjx67xpwjh4q6p-443.app.github.dev&path=%2F&mode=packet-up#%F0%9F%8D%83G2Leafy%20%7C%20alinj64
