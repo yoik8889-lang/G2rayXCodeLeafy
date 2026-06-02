@@ -11,6 +11,7 @@ A sleek **web dashboard** for managing Xray VLESS xHTTP configs on GitHub Codesp
 </div>
 
 ---
+<div align="center">
 <!-- 📸 Panel Preview Image -->
 
 <img src="assets/preview.png" alt="G2ray Web Dashboard Preview" width="720" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.05);">
