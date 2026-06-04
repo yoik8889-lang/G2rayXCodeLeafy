@@ -1,0 +1,1 @@
+vless://94cd2aa9-16d6-441c-961f-d21a7ae9e378@20.125.70.28:443?encryption=none&security=tls&sni=effective-space-train-p7r5g9pwr45727769-443.app.github.dev&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=xhttp&host=effective-space-train-p7r5g9pwr45727769-443.app.github.dev&path=%2F&mode=packet-up#G2rayXCodeLeafy|Depor7ed
